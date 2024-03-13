@@ -16,13 +16,11 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^0.17.3",
-    "serve": "^14.2.1"
+    "json-server": "^0.17.4"
   },
   "bugs": {
     "url": "https://github.com/phucvdp88/dien-tu-phuc-hung/issues"
   },
   "homepage": "https://github.com/phucvdp88/dien-tu-phuc-hung#readme",
-  "devDependencies": {},
   "description": ""
 }
