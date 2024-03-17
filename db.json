@@ -1,5 +1,4 @@
 {
-    "error code": 0,
     "result": [
     {
     "id": "1",
@@ -103,6 +102,5 @@
     "TGGiaoDich": "01/02/2024 09:30",
     "status": "goimoi"
     }
-    ],
-    "message": "thanh cong"
+    ]
     }
